@@ -1,4 +1,5 @@
 # git-study
 git learning record
--单人开发git
--workflow
+---
+- 单人开发git
+- workflow
